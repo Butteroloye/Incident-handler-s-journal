@@ -14,6 +14,7 @@ Tool(s) used	None
 
 The 5 W's
 ●	Who: An organized group of unethical hackers
+
 ●	What: A ransomware security incident
 ●	Where: At a health care company
 ●	When: Tuesday 9:00 a.m.
