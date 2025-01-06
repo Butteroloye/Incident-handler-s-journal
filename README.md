@@ -39,10 +39,15 @@ Description:	Analyzing a packet capture file
 Tool(s) used	For this activity, I used Wireshark to analyze a packet capture file. Wireshark is a network protocol analyzer that uses a graphical user interface. The value of Wireshark in cybersecurity is that it allows security analysts to capture and analyze network traffic. This can help in detecting and investigating malicious activity.
 
 The 5 W's	
+
 ●	Who: N/A
+
 ●	What: N/A
+
 ●	Where: N/A
+
 ●	When: N/A
+
 ●	Why: N/A
 
 Additional notes:	I've never used Wireshark before, so I was excited to begin this exercise and analyze a packet capture file. At first glance, the interface was very overwhelming. I can see why it's such a powerful tool for understanding network traffic.
@@ -58,10 +63,15 @@ Description:	Capturing my first packet
 Tool(s) used	For this activity, I used tcpdump to capture and analyze network traffic. Tcpdump is a network protocol analyzer that's accessed using the command-line interface. Similar to Wireshark, the value of tcpdump in cybersecurity is that it allows security analysts to capture, filter, and analyze network traffic. 
 
 The 5 W's	
+
 ●	Who: N/A
+
 ●	What: N/A
+
 ●	Where: N/A
+
 ●	When: N/A
+
 ●	Why: N/A
 
 Additional note: I'm still new to using the command-line interface, so using it to capture and filter network traffic was a challenge. I got stuck a couple of times because I used the wrong commands. But after carefully following the instructions and redoing some steps, I was able to get through this activity and capture network traffic.
@@ -80,10 +90,15 @@ Tool(s) used	For this activity, I used VirusTotal, which is an investigative too
 This incident occurred in the Detection and Analysis phase. The scenario put me in the place of a security analyst at a SOC investigating a suspicious file hash. After the suspicious file was detected by the security systems in place, I had to perform deeper analysis and investigation to determine if the alert signified a real threat. 
 
 The 5 W's	
+
 ●	Who: An unknown malicious actor 
+
 ●	What: An email sent to an employee contained a malicious file attachment with the SHA-256 file hash of 54e6ea47eb04634d3e87fd7787e2136ccfbcc80ade34f246a12cf93bab527f6b
+
 ●	Where: An employee's computer at a financial services company
+
 ●	When: At 1:20 p.m., an alert was sent to the organization's SOC after the intrusion detection system detected the file
+
 ●	Why: An employee was able to download and execute a malicious file attachment via e-mail.
 
 Additional notes:	How can this incident be prevented in the future? Should we consider improving security awareness training so that employees are careful with what they click on? 
